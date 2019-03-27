@@ -3,8 +3,6 @@ using Microsoft.ML;
 using Microsoft.ML.Data;
 using System;
 
-#pragma warning disable CS0649
-
 namespace myMLApp
 {
     class Program
